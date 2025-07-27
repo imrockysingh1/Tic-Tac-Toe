@@ -7,6 +7,7 @@ function App() {
   return (
     < > 
      <Board/>
+     <h2>Hello</h2>
     </>
   );
 }
